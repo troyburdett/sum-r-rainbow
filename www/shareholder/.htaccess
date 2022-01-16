@@ -1,4 +1,0 @@
-AuthType Basic 
-AuthName "Shareholder Access Only" 
-AuthUserFile ../../.htpasswd 
-require valid-user
